@@ -1,0 +1,72 @@
+## name: evergarden fall skye
+## author: comfysage
+## license: GPL-3.0
+## blurb: a comfy colorscheme for cozy morning coding
+
+[colors.primary]
+background = "#101010"
+foreground = "#e4e4e4"
+dim_foreground = "#484848"
+bright_foreground = "#f4f4ff"
+
+[colors.cursor]
+text = "#101010"
+cursor = "#96a6c8"
+
+[colors.vi_mode_cursor]
+text = "#101010"
+cursor = "#96a6c8"
+
+[colors.search.matches]
+foreground = "#f43841"
+background = "#181818"
+
+[colors.search.focused_match]
+foreground = "#101010"
+background = "#f43841"
+
+[colors.footer_bar]
+foreground = "#e4e4e4"
+background = "#181818"
+
+[colors.hints.start]
+foreground = "#101010"
+background = "#ffdd33"
+
+[colors.hints.end]
+foreground = "#101010"
+background = "#e4e4e4"
+
+[colors.selection]
+text = "#e4e4e4"
+background = "#181818"
+
+[colors.normal]
+black = "#000000"
+red = "#f43841"
+green = "#73d936"
+yellow = "#ffdd33"
+blue = "#96a6c8"
+magenta = "#9e95c7"
+cyan = "#95a99f"
+white = "#ffffff"
+
+[colors.bright]
+black = "#181818"
+red = "#f43841"
+green = "#73d936"
+yellow = "#ffdd33"
+blue = "#96a6c8"
+magenta = "#9e95c7"
+cyan = "#95a99f"
+white = "#ffffff"
+
+[colors.dim]
+black = "#101010"
+red = "#f43841"
+green = "#73d936"
+yellow = "#ffdd33"
+blue = "#96a6c8"
+magenta = "#9e95c7"
+cyan = "#95a99f"
+white = "#ffffff"
